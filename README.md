@@ -1,2 +1,4 @@
 # meu-primeiro-repo
-meu primeiro repositório na aula de pesquisa e inovação
+Meu primeiro repositório na aula de Pesquisa e Inovação
+
+Alterando o repositório REMOTAMENTE :)
